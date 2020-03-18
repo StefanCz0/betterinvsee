@@ -1,0 +1,11 @@
+name: Betterinvsee
+author: pavelstef
+version: 1.0
+website: github.com/StefanCz0
+main: cz.stefan.minecraft.bukkit.plugin.betterinvsee.main
+api-version: 1.13
+commands:
+  openinventory:
+    aliases: [openinv,betterinvsee,invsee]
+    usage: /<command> <player>
+    description: use /command <player> for invsee player 
