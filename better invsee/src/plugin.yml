@@ -9,3 +9,4 @@ commands:
     aliases: [openinv,betterinvsee,invsee]
     usage: /<command> <player>
     description: use /command <player> for invsee player 
+    permission: op
